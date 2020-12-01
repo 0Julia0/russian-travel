@@ -1,0 +1,21 @@
+.footer__block {
+    width: 39.3%;
+}
+
+@media screen and (max-width: 1200px) {
+    .footer__block {
+        width: 50.2%;
+    }
+}
+
+@media screen and (max-width: 1020px) {
+    .footer__block {
+        width: 64.6%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .footer__block {
+        width: 100%;
+    }
+}
